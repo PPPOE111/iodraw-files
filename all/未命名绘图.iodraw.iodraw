@@ -34,8 +34,11 @@
             <mxPoint x="540" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfsW5knIBSOIyhAFZ8oY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-8" value="矢量化场景表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

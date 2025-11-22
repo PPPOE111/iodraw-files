@@ -127,7 +127,7 @@
             <mxPoint x="370" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfsW5knIBSOIyhAFZ8oY-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-35" value="最优配置输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

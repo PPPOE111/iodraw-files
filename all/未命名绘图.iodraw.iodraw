@@ -79,7 +79,10 @@
           <mxGeometry x="520" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-23" value="LLM生成新配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="295" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

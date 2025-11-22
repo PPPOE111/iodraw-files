@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-21" value="LLM迭代优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XfsW5knIBSOIyhAFZ8oY-17">
           <mxGeometry x="-0.1583" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -74,6 +74,9 @@
             <mxPoint x="690" y="470" as="sourcePoint" />
             <mxPoint x="690" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

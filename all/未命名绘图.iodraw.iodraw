@@ -35,7 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-8" value="矢量化场景表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="106" height="40" as="geometry" />
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfsW5knIBSOIyhAFZ8oY-9" target="XfsW5knIBSOIyhAFZ8oY-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-9" value="编码器-解码器网络架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="118" height="50" as="geometry" />

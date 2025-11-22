@@ -48,8 +48,8 @@
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="160" as="sourcePoint" />
-            <mxPoint x="550" y="160" as="targetPoint" />
+            <mxPoint x="309" y="164.5" as="sourcePoint" />
+            <mxPoint x="549" y="164.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-21" value="LLM迭代优化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XfsW5knIBSOIyhAFZ8oY-17">
@@ -59,44 +59,44 @@
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="470" as="sourcePoint" />
-            <mxPoint x="550" y="470" as="targetPoint" />
+            <mxPoint x="309" y="474.5" as="sourcePoint" />
+            <mxPoint x="549" y="474.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="470" as="sourcePoint" />
-            <mxPoint x="310" y="160" as="targetPoint" />
+            <mxPoint x="309" y="474.5" as="sourcePoint" />
+            <mxPoint x="309" y="164.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="470" as="sourcePoint" />
-            <mxPoint x="550" y="160" as="targetPoint" />
+            <mxPoint x="549" y="474.5" as="sourcePoint" />
+            <mxPoint x="549" y="164.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfsW5knIBSOIyhAFZ8oY-22" target="XfsW5knIBSOIyhAFZ8oY-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="263" />
-              <mxPoint x="378" y="263" />
+              <mxPoint x="409" y="267.5" />
+              <mxPoint x="377" y="267.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-22" value="构建Meta-prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="379" y="194.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-23" value="LLM生成新配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="295" width="96" height="50" as="geometry" />
+          <mxGeometry x="329" y="299.5" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-24" value="快速评估与打分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="100" height="50" as="geometry" />
+          <mxGeometry x="379" y="404.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.33;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfsW5knIBSOIyhAFZ8oY-23" target="XfsW5knIBSOIyhAFZ8oY-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="378" y="380" />
-              <mxPoint x="413" y="380" />
+              <mxPoint x="377" y="384.5" />
+              <mxPoint x="412" y="384.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,8 +108,8 @@
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfsW5knIBSOIyhAFZ8oY-24" target="XfsW5knIBSOIyhAFZ8oY-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="315" />
-              <mxPoint x="464" y="315" />
+              <mxPoint x="459" y="319.5" />
+              <mxPoint x="463" y="319.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-28" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="50" height="30" as="geometry" />
+          <mxGeometry x="359" y="244.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-40" value="筛选最优" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="345" width="70" height="30" as="geometry" />
+          <mxGeometry x="550" y="340" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

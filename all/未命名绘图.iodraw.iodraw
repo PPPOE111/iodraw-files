@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-12" value="深度学习基准模型构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XfsW5knIBSOIyhAFZ8oY-5">
           <mxGeometry x="-0.1417" y="-8" relative="1" as="geometry">
-            <mxPoint x="17" y="2" as="offset" />
+            <mxPoint x="17" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">

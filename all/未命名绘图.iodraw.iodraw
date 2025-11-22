@@ -127,8 +127,11 @@
             <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XfsW5knIBSOIyhAFZ8oY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfsW5knIBSOIyhAFZ8oY-35" target="XfsW5knIBSOIyhAFZ8oY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-35" value="最优配置输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="305" width="80" height="45" as="geometry" />
+          <mxGeometry x="600" y="310" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XfsW5knIBSOIyhAFZ8oY-36" value="全量训练与对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="310" width="90" height="40" as="geometry" />

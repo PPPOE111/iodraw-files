@@ -71,10 +71,16 @@
           <mxGeometry x="460" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-19" value="LLM策略生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="120" height="50" as="geometry" />
+          <mxGeometry x="520" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-22" value="&lt;span style=&quot;background-color: rgb(230, 208, 222);&quot;&gt;反馈评分与历史&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="580" as="sourcePoint" />
+            <mxPoint x="670" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

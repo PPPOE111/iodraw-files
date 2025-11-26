@@ -64,13 +64,12 @@
         <mxCell id="fSzDT9Ai1anQRoOVskV5-17" value="代理评估&lt;div&gt;（复杂场景子集）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="460" y="200" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.642;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.642;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fSzDT9Ai1anQRoOVskV5-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="537.04" y="338" as="sourcePoint" />
             <mxPoint x="540" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="537" y="370" />
-              <mxPoint x="540" y="370" />
+              <mxPoint x="537" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>

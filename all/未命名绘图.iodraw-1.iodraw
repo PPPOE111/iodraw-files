@@ -133,8 +133,8 @@
         <mxCell id="fSzDT9Ai1anQRoOVskV5-36" value="全量训练与对比分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1060" y="252.5" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-38" value="LLM迭代优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="637" y="78" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

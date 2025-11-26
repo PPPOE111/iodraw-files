@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8zXM5d9MVoFiPl_Yn9hV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="8zXM5d9MVoFiPl_Yn9hV-1" value="[System Prompt]&#xa;Your task is to optimize the hyperparameter configuration for a vehicle trajectory prediction model to minimize the validation error (minADE).&#xa;&#xa;&#xa;[Optimization History]&#xa;Observation 1:&#xa;  - Config: {loss_type: &quot;L1&quot;, reg_weight: 1.0, cls_weight: 0.0}&#xa;  - Score (minADE): 1.85 (Too High)&#xa;&#xa;&#xa;Observation 2:&#xa;  - Config: {loss_type: &quot;SmoothL1&quot;, reg_weight: 0.8, cls_weight: 0.2}&#xa;  - Score (minADE): 1.42 (Better)&#xa;&#xa;&#xa;...&#xa;&#xa;&#xa;[Instruction]&#xa;Based on the history above, generate a new configuration that can further reduce the minADE.&#xa;Return format: JSON only." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="780" height="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -61,8 +61,8 @@
         <mxCell id="fSzDT9Ai1anQRoOVskV5-18" value="构建Meta-prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-19" value="指令解析与映射" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="120" height="50" as="geometry" />
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-19" value="LLM策略生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

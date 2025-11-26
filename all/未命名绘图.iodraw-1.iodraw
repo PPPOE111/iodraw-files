@@ -53,39 +53,45 @@
           <mxGeometry x="215" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-16" value="指令解析与映射" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="520" y="110" width="120" height="50" as="geometry" />
+          <mxGeometry x="640" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSzDT9Ai1anQRoOVskV5-17" target="fSzDT9Ai1anQRoOVskV5-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-17" value="代理评估&lt;div&gt;（复杂场景子集）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="580" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-18" value="构建Meta-prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="580" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-19" value="LLM策略生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="50" as="geometry" />
+          <mxGeometry x="640" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-22" value="&lt;span style=&quot;background-color: rgb(230, 208, 222);&quot;&gt;反馈评分与历史&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="250" width="110" height="30" as="geometry" />
+          <mxGeometry x="585" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.833;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fSzDT9Ai1anQRoOVskV5-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="400" as="sourcePoint" />
-            <mxPoint x="620" y="340" as="targetPoint" />
+            <mxPoint x="740" y="380" as="sourcePoint" />
+            <mxPoint x="740" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.167;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fSzDT9Ai1anQRoOVskV5-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="340" as="sourcePoint" />
-            <mxPoint x="540" y="390" as="targetPoint" />
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="660" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="160" as="sourcePoint" />
-            <mxPoint x="540" y="200" as="targetPoint" />
+            <mxPoint x="660" y="140" as="sourcePoint" />
+            <mxPoint x="660" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="130" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

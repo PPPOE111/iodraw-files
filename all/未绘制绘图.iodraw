@@ -16,6 +16,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GphfT66cJaLN9NINWsEo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="50" y="107" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

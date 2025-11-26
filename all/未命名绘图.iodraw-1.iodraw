@@ -25,10 +25,10 @@
         <mxCell id="fSzDT9Ai1anQRoOVskV5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fSzDT9Ai1anQRoOVskV5-5" target="fSzDT9Ai1anQRoOVskV5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-5" value="基准模型构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117ccf;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-5" value="&lt;font color=&quot;#ffffff&quot;&gt;基准模型构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117ccf;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-6" value="参数化配置接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117ccf;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fSzDT9Ai1anQRoOVskV5-6" value="&lt;font color=&quot;#ffffff&quot;&gt;参数化配置接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117ccf;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">

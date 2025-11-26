@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="450" as="sourcePoint" />
             <mxPoint x="120" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="470" as="sourcePoint" />
-            <mxPoint x="370" y="470" as="targetPoint" />
+            <mxPoint x="120" y="450" as="sourcePoint" />
+            <mxPoint x="370" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fSzDT9Ai1anQRoOVskV5-11" value="基础构建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

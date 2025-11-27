@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-2" target="vlpfXgiEbvitEYEhXv1M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-2" value="LLM输出文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-3" target="vlpfXgiEbvitEYEhXv1M-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-3" value="结构化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-4" value="边界校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="95" y="360" width="75" height="75" as="geometry" />
+          <mxGeometry x="97.5" y="370" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-5" value="模型超参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />

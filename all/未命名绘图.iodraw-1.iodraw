@@ -1,17 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lZiVgRUD34YzwwhbFc4c">
-    <mxGraphModel dx="203" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="fSzDT9Ai1anQRoOVskV5-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fSzDT9Ai1anQRoOVskV5-36" value="全量训练与对比分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#117CCF;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="252.5" width="120" height="55" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

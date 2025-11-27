@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vlpfXgiEbvitEYEhXv1M-2" value="LLM输出文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-3" value="结构化数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-4" value="边界校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-5" value="模型超参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

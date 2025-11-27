@@ -25,10 +25,10 @@
         <mxCell id="vlpfXgiEbvitEYEhXv1M-6" value="自动修正" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="17.5" y="504.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vlpfXgiEbvitEYEhXv1M-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="430" as="sourcePoint" />
-            <mxPoint x="390" y="430" as="targetPoint" />
+            <mxPoint x="100" y="407" as="sourcePoint" />
+            <mxPoint x="50" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

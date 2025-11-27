@@ -7,7 +7,7 @@
         <mxCell id="vlpfXgiEbvitEYEhXv1M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-2" target="vlpfXgiEbvitEYEhXv1M-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-2" value="LLM输出文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-2" value="LLM输出文本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-3" target="vlpfXgiEbvitEYEhXv1M-4">
@@ -47,7 +47,7 @@
           <mxGeometry x="150" y="468" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-16" value="JSON格式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="228" width="80" height="30" as="geometry" />
+          <mxGeometry x="120" y="228" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

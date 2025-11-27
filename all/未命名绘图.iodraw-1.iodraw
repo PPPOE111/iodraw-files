@@ -7,7 +7,7 @@
         <mxCell id="vlpfXgiEbvitEYEhXv1M-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-17" target="vlpfXgiEbvitEYEhXv1M-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-17" value="全量数据集&lt;br&gt;Argoverse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vlpfXgiEbvitEYEhXv1M-17" value="全量数据集&lt;br&gt;Argoverse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vlpfXgiEbvitEYEhXv1M-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-19" target="vlpfXgiEbvitEYEhXv1M-20">

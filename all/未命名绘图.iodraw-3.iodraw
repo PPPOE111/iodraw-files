@@ -37,6 +37,9 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-14" value="自然语言指令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-15" value="JSON格式化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

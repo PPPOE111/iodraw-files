@@ -148,8 +148,8 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;【指令解析与代理评估】&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="498" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-62" value="元提示构建器 Meta-prompt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="915" y="128" width="170" height="30" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-62" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;元提示构建器 Meta-prompt&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

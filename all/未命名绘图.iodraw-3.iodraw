@@ -73,13 +73,8 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-27" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-34" value="基准预测模型(SIMPL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="78" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

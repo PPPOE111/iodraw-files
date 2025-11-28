@@ -47,10 +47,10 @@
           <mxGeometry x="400" y="540" width="56.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-19" value="小样本子集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="690" y="525" width="90" height="60" as="geometry" />
+          <mxGeometry x="700" y="525" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-20" value="快速训练验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="525" width="90" height="60" as="geometry" />
+          <mxGeometry x="800" y="525" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-21" value="评分反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="950" y="540" width="90" height="60" as="geometry" />

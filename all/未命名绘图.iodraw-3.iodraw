@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="410" height="105" as="geometry" />
+          <mxGeometry x="35" y="532" width="410" height="105" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-43" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="35" y="130" width="610" height="280" as="geometry" />
@@ -68,22 +68,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-14" value="自然语言&lt;div&gt;指令&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="70" y="540" width="80" height="60" as="geometry" />
+          <mxGeometry x="45" y="562" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-15" target="4Pi9O9LjfHRx-rIlphpe-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-15" value="JSON&lt;div&gt;格式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="80" height="60" as="geometry" />
+          <mxGeometry x="165" y="562" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-16" target="4Pi9O9LjfHRx-rIlphpe-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-16" value="边界校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="540" width="60" height="60" as="geometry" />
+          <mxGeometry x="285" y="562" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-17" value="参数映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="540" width="56.5" height="60" as="geometry" />
+          <mxGeometry x="375" y="562" width="56.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-19" value="小样本子集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="700" y="525" width="60" height="60" as="geometry" />
@@ -100,8 +100,8 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-27" value="&lt;b&gt;数据预处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-34" value="基准预测模型(SIMPL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="353.25" y="170" width="140" height="30" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-34" value="&lt;b style=&quot;&quot;&gt;基准预测模型(SIMPL)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-39" value="&lt;font color=&quot;#ffffff&quot;&gt;待优化&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;策略接口&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d4d4d;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="508.25" y="320" width="90" height="50" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="70" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-49" value="&lt;b&gt;指令解析模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="100" height="30" as="geometry" />
+          <mxGeometry x="35" y="532" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

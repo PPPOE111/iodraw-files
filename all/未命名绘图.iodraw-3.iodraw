@@ -85,11 +85,17 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-17" value="参数映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="375" y="562" width="56.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-19" target="4Pi9O9LjfHRx-rIlphpe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-19" value="小样本子集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="557" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-20" value="快速训练&lt;div&gt;验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="740" y="560" width="80" height="55" as="geometry" />
+          <mxGeometry x="727" y="557.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-22" target="4Pi9O9LjfHRx-rIlphpe-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-22" value="复杂场&lt;div&gt;景筛选&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="545" width="90" height="80" as="geometry" />

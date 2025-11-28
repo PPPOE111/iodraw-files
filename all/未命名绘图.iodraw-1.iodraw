@@ -4,30 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-17" target="vlpfXgiEbvitEYEhXv1M-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-17" value="全量数据集&lt;br&gt;Argoverse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-19" target="vlpfXgiEbvitEYEhXv1M-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-19" value="复杂场景筛选" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fillColor=#FFE599;" vertex="1" parent="1">
-          <mxGeometry x="365" y="350" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlpfXgiEbvitEYEhXv1M-20" target="vlpfXgiEbvitEYEhXv1M-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-20" value="代理子集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-21" value="快速验证" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vlpfXgiEbvitEYEhXv1M-25" value="收敛趋势" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="530" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

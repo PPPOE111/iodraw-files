@@ -97,7 +97,7 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-23" value="评分反馈" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="900" y="515" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-27" value="数据预处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-27" value="&lt;b&gt;数据预处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-34" value="基准预测模型(SIMPL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;【基准模型】&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-49" value="指令解析模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-49" value="&lt;b&gt;指令解析模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="510" width="100" height="30" as="geometry" />
         </mxCell>
       </root>

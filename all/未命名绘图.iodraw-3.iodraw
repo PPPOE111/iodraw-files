@@ -7,7 +7,7 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-1" value="Argoverse&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-2" value="实例化中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">

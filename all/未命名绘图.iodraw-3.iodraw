@@ -38,10 +38,10 @@
           <mxGeometry x="70" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-15" value="JSON&lt;div&gt;格式化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="540" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-16" value="边界校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="540" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-17" value="参数映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="550" y="540" width="120" height="60" as="geometry" />

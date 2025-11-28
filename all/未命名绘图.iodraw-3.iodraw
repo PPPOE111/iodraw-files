@@ -7,11 +7,14 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-1" target="4Pi9O9LjfHRx-rIlphpe-4">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-1" target="4Pi9O9LjfHRx-rIlphpe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-1" value="Argoverse&lt;div&gt;数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">
           <mxGeometry x="70" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-2" target="4Pi9O9LjfHRx-rIlphpe-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-2" value="实例化中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bed9ee;" vertex="1" parent="1">
           <mxGeometry x="70" y="260" width="120" height="40" as="geometry" />

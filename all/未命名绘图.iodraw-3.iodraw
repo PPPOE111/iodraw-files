@@ -94,8 +94,8 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-39" value="&lt;font color=&quot;#ffffff&quot;&gt;待优化&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;策略接口&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d4d4d;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="508.25" y="320" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-44" value="基础底座" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="38" width="70" height="30" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-44" value="【基础底座】&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="38" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

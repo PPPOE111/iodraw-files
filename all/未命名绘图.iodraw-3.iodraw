@@ -163,8 +163,8 @@
             <mxPoint x="1014.5" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;【LLM优化模块】&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="845" y="160" width="140" height="30" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;【LLM优化模块】&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="150" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.773;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-23" target="4Pi9O9LjfHRx-rIlphpe-59">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +180,12 @@
               <mxPoint x="885" y="460" />
               <mxPoint x="581" y="460" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-74" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="270" as="sourcePoint" />
+            <mxPoint x="130" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-57" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="15" y="480" width="895" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-48" target="4Pi9O9LjfHRx-rIlphpe-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-48" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="532" width="410" height="105" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-43" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">

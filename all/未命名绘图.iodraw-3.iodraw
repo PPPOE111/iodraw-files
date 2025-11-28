@@ -11,7 +11,7 @@
           <mxGeometry x="695" y="307.5" width="320" height="85" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-57" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="25.75" y="488" width="1004.25" height="170" as="geometry" />
+          <mxGeometry x="25.75" y="488" width="974.25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="526" width="390" height="117" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-20" value="快速训练&lt;div&gt;验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="564.5" width="80" height="55" as="geometry" />
+          <mxGeometry x="795" y="564.5" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-22" target="4Pi9O9LjfHRx-rIlphpe-19">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="590" y="550.5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-23" value="评分反馈" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="905" y="558" width="65" height="65" as="geometry" />
+          <mxGeometry x="895" y="559.5" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-27" value="&lt;b&gt;数据预处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="80" height="30" as="geometry" />

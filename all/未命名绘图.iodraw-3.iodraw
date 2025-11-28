@@ -7,7 +7,7 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-57" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="15" y="480" width="895" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="503.25" y="526" width="390" height="117" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Pi9O9LjfHRx-rIlphpe-48" target="4Pi9O9LjfHRx-rIlphpe-53">
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-56" value="&lt;b&gt;注入参数&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="438.25" y="558" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="418" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

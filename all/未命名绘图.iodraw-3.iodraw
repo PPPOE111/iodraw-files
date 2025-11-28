@@ -49,11 +49,8 @@
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-19" value="小样本子集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="700" y="525" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-20" value="快速训练验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="800" y="525" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Pi9O9LjfHRx-rIlphpe-21" value="评分反馈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
-          <mxGeometry x="950" y="540" width="90" height="60" as="geometry" />
+        <mxCell id="4Pi9O9LjfHRx-rIlphpe-20" value="快速训练&lt;div&gt;验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
+          <mxGeometry x="800" y="525" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Pi9O9LjfHRx-rIlphpe-22" value="复杂场&lt;div&gt;景筛选&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f6e7a6;" vertex="1" parent="1">
           <mxGeometry x="570" y="515" width="100" height="80" as="geometry" />

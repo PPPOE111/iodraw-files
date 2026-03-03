@@ -68,7 +68,7 @@
           <mxGeometry x="454" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-32" value="结构化答案+可信来源引用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="660" width="160" height="30" as="geometry" />
+          <mxGeometry x="260" y="660" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-33" target="i9iEAJMXyAX-RgG-Z0fr-34">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="430" y="570" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-40" value="大语言模型生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="540" width="110" height="30" as="geometry" />
+          <mxGeometry x="285" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

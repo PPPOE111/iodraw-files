@@ -61,8 +61,11 @@
             <mxPoint x="490" y="444.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-28" value="数据查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-6" target="i9iEAJMXyAX-RgG-Z0fr-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

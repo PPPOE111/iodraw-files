@@ -10,8 +10,8 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-3" value="多轮对话上下文提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-4" value="多轮对话上下文提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-4" value="意图识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -16,7 +16,7 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="270" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="&lt;b&gt;用户自然语言提问&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="&lt;b&gt;用户自然语言提问&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-3" value="&lt;b&gt;多轮对话上下文提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="334" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-15" value="混合检索模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-15" value="&lt;b&gt;混合检索模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="239" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-19" value="Neo4j知识图谱底座" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">

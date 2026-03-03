@@ -16,13 +16,13 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="270" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="&lt;b&gt;用户自然语言提问&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="&lt;b&gt;用户自然语言提问&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-3" value="多轮对话上下文提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-3" value="&lt;b&gt;多轮对话上下文提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-4" value="意图识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-4" value="&lt;b&gt;意图识别&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-5" value="&lt;b&gt;预处理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

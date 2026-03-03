@@ -52,6 +52,9 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-19" value="Neo4j知识图谱底座" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="70" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.821;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-6" target="i9iEAJMXyAX-RgG-Z0fr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

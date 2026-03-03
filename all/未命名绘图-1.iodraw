@@ -17,7 +17,12 @@
           <mxGeometry x="210" y="250" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-1" target="i9iEAJMXyAX-RgG-Z0fr-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="240" />
+              <mxPoint x="370" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="用户自然语言提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="30" as="geometry" />
@@ -66,9 +71,6 @@
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-28" value="数据查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="420" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-6" target="i9iEAJMXyAX-RgG-Z0fr-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-32" value="结构化答案+可信来源引用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="660" width="160" height="30" as="geometry" />

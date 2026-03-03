@@ -70,19 +70,19 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-33" target="i9iEAJMXyAX-RgG-Z0fr-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-33" value="增强提示词（Prompt）组装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-33" value="&lt;b&gt;增强提示词（Prompt）组装&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="570" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-34" target="i9iEAJMXyAX-RgG-Z0fr-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-34" value="调用大语言模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-34" value="&lt;b&gt;调用大语言模型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="570" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-36" value="答案解析与来源分离" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-36" value="&lt;b&gt;答案解析与来源分离&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="570" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-40" value="大语言模型生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-40" value="&lt;b&gt;大语言模型生成模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

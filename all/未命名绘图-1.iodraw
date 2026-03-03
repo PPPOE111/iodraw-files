@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="380" width="330" height="120" as="geometry" />
+          <mxGeometry x="84" y="380" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-1" target="i9iEAJMXyAX-RgG-Z0fr-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-1" value="用户自然语言提问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
@@ -23,31 +26,31 @@
           <mxGeometry x="310" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-8" value="向量相似度检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="120" height="30" as="geometry" />
+          <mxGeometry x="94" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-9" value="Cypher图关联检索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="94" y="450" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-10" value="上下文压缩与过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="120" height="50" as="geometry" />
+          <mxGeometry x="284" y="420" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="i9iEAJMXyAX-RgG-Z0fr-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="420" as="sourcePoint" />
-            <mxPoint x="240" y="440" as="targetPoint" />
+            <mxPoint x="214" y="420" as="sourcePoint" />
+            <mxPoint x="254" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-9" target="i9iEAJMXyAX-RgG-Z0fr-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="500" as="sourcePoint" />
-            <mxPoint x="280" y="458" as="targetPoint" />
+            <mxPoint x="234" y="500" as="sourcePoint" />
+            <mxPoint x="294" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-15" value="混合检索模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="100" height="30" as="geometry" />
+          <mxGeometry x="204" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-19" value="Neo4j知识图谱底座" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="410" width="70" height="110" as="geometry" />
+          <mxGeometry x="510" y="390" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

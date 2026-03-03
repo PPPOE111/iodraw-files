@@ -91,9 +91,6 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-40" value="大语言模型生成模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="540" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-39" target="i9iEAJMXyAX-RgG-Z0fr-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="354.5" y="470" as="sourcePoint" />

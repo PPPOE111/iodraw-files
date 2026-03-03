@@ -40,6 +40,9 @@
             <mxPoint x="390" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

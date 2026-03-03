@@ -28,6 +28,12 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-10" value="上下文压缩与过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

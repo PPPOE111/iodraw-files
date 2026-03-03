@@ -46,7 +46,7 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-15" value="混合检索模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-19" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-19" value="Neo4j知识图谱底座" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="60" height="80" as="geometry" />
         </mxCell>
       </root>

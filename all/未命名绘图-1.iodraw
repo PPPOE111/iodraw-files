@@ -148,8 +148,11 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-65" value="[:HAS_ENTITY]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="705" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-66" value="[:HAS_ENTITY]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="158.5" y="715" width="110" height="30" as="geometry" />
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-66" value="[:FOLLOWED_BY]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="645" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-67" value="[:HAS_ENTITY]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168.5" y="725" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

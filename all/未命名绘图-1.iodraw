@@ -118,8 +118,11 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-51" value="前置条件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="414" y="620" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-52" target="i9iEAJMXyAX-RgG-Z0fr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-52" value="核心实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="249" y="690" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="685" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-53" value="性能指标" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="414" y="740" width="80" height="80" as="geometry" />

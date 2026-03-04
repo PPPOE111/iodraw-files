@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-50" value="查询命中的文本块（Chunk）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-51" value="前置条件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="409" y="620" width="80" height="80" as="geometry" />
@@ -137,9 +137,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-62" value="局部规则关联子图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="570" width="120" height="30" as="geometry" />
+          <mxGeometry x="315" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="i9iEAJMXyAX-RgG-Z0fr-52">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i9iEAJMXyAX-RgG-Z0fr-50" target="i9iEAJMXyAX-RgG-Z0fr-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="729.5" as="sourcePoint" />
             <mxPoint x="250" y="729.5" as="targetPoint" />

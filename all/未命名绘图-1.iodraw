@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="281" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="340" width="480" height="70" as="geometry" />
         </mxCell>
@@ -120,9 +123,6 @@
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-53" value="性能指标" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="750" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="570" width="281" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

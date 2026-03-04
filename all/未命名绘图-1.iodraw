@@ -112,14 +112,14 @@
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-50" value="查询命中的文本块（Chunk）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-51" value="前置条件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="i9iEAJMXyAX-RgG-Z0fr-52" value="核心实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="249" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i9iEAJMXyAX-RgG-Z0fr-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="750" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
